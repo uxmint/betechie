@@ -1,0 +1,233 @@
+
+.betechie-sec
+{
+    margin: 50px auto;
+    margin-left: 8%;
+}
+.betechie-sec img
+{
+
+margin-right: 20px;
+}
+.betechie-sec2
+{
+    padding-right: 0px;
+}
+.home
+{
+    margin-top: 100px;
+}
+
+.home h2
+{
+    font-size: 3.4em;
+    font-weight: 600;
+
+}
+
+.home h2 span
+{
+   color:#94d41a;
+}
+.home p
+{
+    padding-top: 100px;
+    font-size: 14px;;
+    line-height: 30px;
+    font-weight: 400;
+    color: #888;
+    padding-bottom: 100px;
+    padding-right: 40px;
+
+}
+.home p span
+{
+   color:#000;
+   font-weight: 600;
+}
+#contactForm input[type="email"]
+{
+    width: 100%;
+    background-color: #ededff;
+    padding: 20px 30px 20px 30px;
+    border: none;
+    
+}
+
+#contactForm button
+{
+    padding: 20px 30px 20px 30px;
+    background-color: #333333;
+    color: #fff;
+    border: none;
+}
+#contactForm button:hover
+{
+    background-color: #94d41a;
+}
+#contactForm .col-md-8,.col-sm-8
+{
+    padding-right: 0px;
+}
+#contactForm .col-md-4,.col-sm-4
+{
+    padding-left: 0px;
+}
+@media screen and (min-width:992px) and (max-width:1300px)
+{
+    
+.home h2
+{
+    font-size: 2.6em;
+    font-weight: 600;
+
+}
+.home
+{
+    margin-top: 80px;
+}
+.home p
+{
+    padding-top: 80px;
+    font-size: 14px;;
+    line-height: 25px;
+    font-weight: 400;
+    color: #888;
+    padding-bottom: 80px;
+
+}
+#contactForm input[type="email"]
+{
+    width: 100%;
+    background-color: #ededff;
+    padding: 20px 30px 20px 30px;
+    border: none;
+    
+}
+
+#contactForm button
+{
+    padding: 20px 30px 20px 30px;
+    background-color: #333333;
+    color: #fff;
+    border: none;
+}
+}
+@media screen and (max-width:992px)
+{
+    
+.home h2
+{
+    font-size: 2em;
+    font-weight: 600;
+
+}
+.home
+{
+    margin-top: 50px;
+}
+.home p
+{
+    padding-top: 50px;
+    font-size: 12px;;
+    line-height: 20px;
+    font-weight: 400;
+    color: #888;
+    padding-bottom: 50px;
+
+}
+#contactForm input[type="email"]
+{
+    width: 100%;
+    background-color: #ededff;
+    padding: 20px 15px 20px 15px;
+    border: none;
+    
+}
+
+#contactForm button
+{
+    padding: 20px 30px 20px 30px;
+    background-color: #333333;
+    color: #fff;
+    border: none;
+}
+}
+
+@media screen and (max-width:764px)
+{
+    .betechie-sec
+{
+    margin: 50px auto;
+    margin-left: 5%;
+}
+.home h2
+{
+    font-size: 1.6em;
+    font-weight: 600;
+
+}
+.home
+{
+    margin-top: 50px;
+}
+.home p
+{
+    padding-top: 50px;
+    font-size: 14px;;
+    line-height: 25px;
+    font-weight: 400;
+    color: #888;
+    padding-bottom: 50px;
+
+}
+
+    .betechie-sec2
+    {
+        display: none;
+    }
+    #contactForm input[type="email"]
+{
+    width: 100%;
+    background-color: #ededff;
+    padding: 15px 10px 15px 10px;
+    border: none;
+    font-size: 12px;
+    
+}
+
+#contactForm button
+{
+    padding: 15px 10px 15px 10px;
+    background-color: #333333;
+    color: #fff;
+    border: none;
+}
+}
+
+@media screen and (min-width:765px) and (max-width:840px)
+{
+    .home h2
+    {
+        font-size: 1.8em;
+
+    }
+    .home p 
+    {
+        padding-top: 30px;
+        font-size: 10px;
+        line-height: 20px;
+        font-weight: 400;
+        color: #888;
+        padding-bottom: 30px;
+    }
+}
+
+@media screen and (min-width:1500px)
+{
+    #main
+    {
+        width: 1500px;
+        margin: 0 auto;
+    }
+}
